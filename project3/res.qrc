@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bluebase.png</file>
+        <file>image/purplebase.png</file>
+        <file>image/blueturret.png</file>
+        <file>image/purpleturret.png</file>
+        <file>image/basebullet.png</file>
+        <file>image/bluemelee.png</file>
+        <file>image/purplemelee.png</file>
+        <file>image/purplecaster.png</file>
+        <file>image/bluecaster.png</file>
+        <file>image/purplesiege.png</file>
+        <file>image/bluesiege.png</file>
+        <file>image/purplesuper.png</file>
+        <file>image/bluesuper.png</file>
+        <file>image/purplesupericon.png</file>
+        <file>image/purplesiegeicon.png</file>
+        <file>image/purplemeleeicon.png</file>
+        <file>image/purplecastericon.png</file>
+        <file>image/bluesupericon.png</file>
+        <file>image/bluesiegeicon.png</file>
+        <file>image/bluemeleeicon.png</file>
+        <file>image/bluecastericon.png</file>
+        <file>image/storm.png</file>
+        <file>image/stormicon.jpeg</file>
+        <file>image/tennis.png</file>
+        <file>image/baronicon.jpeg</file>
+        <file>image/baron.png</file>
+    </qresource>
+</RCC>
